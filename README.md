@@ -4,7 +4,8 @@ This week assignment needs to do a deployment on Netlify, then setting up custom
 
 ## Link to the Website
 
-http://mebel-inc.space/
+### <strong>http://mebel-inc.space/</strong>
+
 ![banner](./assets/screenshot-website.png)
 
 ## First Step
