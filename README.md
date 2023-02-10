@@ -42,7 +42,7 @@ This week assignment needs to do a deployment on Netlify, then setting up custom
 
 ## Let's Connect
 
-- Website: [rioyulinanda](riyul.netlify.app)
+- Website: [rioyulinanda](https://riyul.netlify.app)
 - LinkedIn: [rioyulinanda](https://id.linkedin.com/in/rio-y-kurniawan-55293172)
 - GitHub: [rioyulinanda](https://github.com/rioyulinanda)
 
