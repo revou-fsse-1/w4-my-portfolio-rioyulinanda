@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+/* NAVIGATION BAR */
+
+.navigation {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 40px;
+}
+
+ul.navigation-menubar {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 30px;
+}
+
+ul.navigation-menubar li a {
+  text-decoration: none;
+  font-family: "Abel", sans-serif;
+  color: #181818;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+ul.navigation-menubar li a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+/* HEADER */
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  /* gap: 50px; */
+}
+
+.header {
+  background-color: #181818;
+  position: relative;
+}
+
+.headingimage-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.header h2 {
+  color: white;
+  font-family: "Abel", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  position: absolute;
+  padding-bottom: 100px;
+}
+
+/* MAIN CONTENT */
+
+.content-story img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content-story {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 40px;
+  gap: 20px;
+  text-transform: uppercase;
+  font-family: "Abel", sans-serif;
+  color: white;
+}
+
+.content-story > * {
+  display: grid;
+  grid-template-rows: 500px min-content min-content;
+  border-style: solid;
+  padding: 20px;
+  background-color: #181818;
+}
+
+/* MINOR CONTENT */
+
+.about-contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  font-family: "Abel", sans-serif;
+  list-style: none;
+  padding: 45px;
+}
+
+.contactus {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.contactus ul {
+  list-style: none;
+}
+
+.contactus ul li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.about p {
+  padding-right: 200px;
+  letter-spacing: 2px;
+}
+
+/* FOOTER */
+
+.footer {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Abel", sans-serif;
+  letter-spacing: 3px;
+  margin-left: 5px;
+  text-transform: uppercase;
+}
