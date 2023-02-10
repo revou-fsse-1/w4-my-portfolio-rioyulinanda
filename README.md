@@ -41,7 +41,7 @@ http://mebel-inc.space/
 
 ## Let's Connect
 
-- Website: [Mebel](https://mebel-inc.netlify.app/)
+- Website: [rioyulinanda](riyul.netlify.app)
 - LinkedIn: [rioyulinanda](https://id.linkedin.com/in/rio-y-kurniawan-55293172)
 - GitHub: [rioyulinanda](https://github.com/rioyulinanda)
 
