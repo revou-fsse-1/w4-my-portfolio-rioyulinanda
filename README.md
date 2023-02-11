@@ -1,6 +1,6 @@
 # My Portfolio - Mebel Inc Website
 
-This week assignment needs to do a deployment on Netlify, then setting up custom domain, and the last step is to secure the site with HTTPS.
+This week's assignment needs to do deployment on Netlify, then set up a custom domain, and the last step is to secure the site with CDN.
 
 ## Link to the Website
 
@@ -21,9 +21,9 @@ This week assignment needs to do a deployment on Netlify, then setting up custom
 
 ## Second Step
 
-> Buy domain on hosting service provider and setup the Https
+> Buy domain on hosting service provider and set up the CDN
 
-<p>This step flow is starts to make an account in the hosting provider, in this case Niagahoster, then following the procedure, like selecting the domain name then do the payment. After that make an account in Https server, in this case using Cloudfare. Following the step, begin with add site, then change the nameserver that provide by Cloudfare, copy-ing to Niagahoster. Then the last one setting up the DNS Records.</p>
+<p>This step flow is starting to make an account in the hosting provider, in this case, Niagahoster, then following the procedure, like selecting the domain name then do the payment. After that make an account in CDN, in this case using Cloudflare. Following the step, begin with adding the site, then change the nameserver that provides by Cloudflare, copy-ing to Niagahoster. Then the last one setting up the DNS Records.</p>
 
 ![banner](<./assets/screenshots/2nd Step (1).png>)
 ![banner](<./assets/screenshots/2nd Step (2).png>)
@@ -36,7 +36,7 @@ This week assignment needs to do a deployment on Netlify, then setting up custom
 
 > Set up custom domain on Netlify page
 
-<p>This is the last step is to setting up custom domain in Netlify website. Just add custom domain that already made in Niagahoster into the section that provide by Netlify. Then once it down, just wait until the website is live.</p>
+<p>This is the last step is to set up a custom domain on the Netlify website. Just add a custom domain that is already made in Niagahoster into the section provided by Netlify. Then once it is down, just wait until the website is live.</p>
 
 ![banner](<./assets/screenshots/3rd Step (1).png>)
 
@@ -46,7 +46,8 @@ This week assignment needs to do a deployment on Netlify, then setting up custom
 - LinkedIn: [rioyulinanda](https://id.linkedin.com/in/rio-y-kurniawan-55293172)
 - GitHub: [rioyulinanda](https://github.com/rioyulinanda)
 
-## color references
+## Color and Font References
 
 - #181818 (nero)
 - #F5F5F5 (whitesmoke)
+- Font: Abel (Google Font)
